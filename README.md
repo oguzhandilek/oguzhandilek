@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: 'Calibri', sans-serif;
-    }
 
-    h1, h2, h3 {
-      font-family: 'Calibri', sans-serif;
-    }
-
-    /* Diğer stillendirmeleri buraya ekleyebilirsiniz */
-
-  </style>
-  <title>Your Page Title</title>
-</head>
-<body>
 
 <h1 align="center">- 👋 Hi, I’m Oğuzhan DİLEK🐺</h1>
 <h2 aling="left">- 👀 I am interested in doing research on various subjects, constantly improving myself, reading books and learning new things. My goal is to improve myself every day and to excel in the software development world and serve the society.</h2>
@@ -37,6 +18,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-</body>
-</html>
 
